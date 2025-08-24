@@ -1,7 +1,6 @@
 {
   "name": "webhooks-playground",
   "type": "module",
-  "packageManager": "yarn@4.9.1",
   "dependencies": {
     "dotenv": "^17.2.1",
     "express": "^5.1.0",
